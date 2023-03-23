@@ -3,7 +3,9 @@ import './Navbar.css'
 
 function Navbar() {
   return (
-    <div>Navbar</div>
+    <div  className='header'>
+        <h1>GLX-TVL</h1>
+        </div>
   )
 }
 

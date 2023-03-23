@@ -15,8 +15,8 @@ function Video() {
       
 
       <div>
-      <Link to='./training' className= "btn btn-light" >Training</Link>
-      <Link to='./contact' className="btn btn-light">Launch</Link>
+      <Link to='./training' className= 'btn' >Training</Link>
+      <Link to='./contact' className='btn btn-light'>Launch</Link>
       </div>
 
 

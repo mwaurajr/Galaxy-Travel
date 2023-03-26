@@ -7,7 +7,7 @@ function Pricing() {
   return (
     <div>
       <Navbar />
-      <HeroImage />
+      <HeroImage  heading='PRICING.' text='Choose your Trip'/>
       <Footer />
     </div>
   );

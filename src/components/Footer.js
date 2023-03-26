@@ -20,7 +20,17 @@ function Footer() {
               size={20}
               style={{ color: "#ffffff", marginRight: "2rem" }}
             />
+          
+          <div>
+            <p>Haile Selasie St.</p>
+            <h4>Nairobi, Kenya</h4>
           </div>
+          </div>
+
+
+
+
+          
         </div>
       </div>
     </div>

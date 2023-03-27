@@ -15,3 +15,6 @@ export class HeroImage extends Component {
 }
 
 export default HeroImage
+
+
+

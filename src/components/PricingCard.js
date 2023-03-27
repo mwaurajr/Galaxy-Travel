@@ -44,7 +44,7 @@ function PricingCard() {
             <p>Private Quaters</p>
           </span>
           <Link to="/contact" className="btn">
-            Book
+            Book 
           </Link>
         </div>
       </div>

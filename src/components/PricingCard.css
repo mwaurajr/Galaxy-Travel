@@ -37,4 +37,30 @@
     border-bottom: 1px solid #eee;
     margin: 1.5rem auto;
     display: block ;
+} 
+
+ .card .btc {
+    font-size: 3rem;
+    font-weight: 200;
+    padding: 1rem;
+}
+
+.pricing p {
+    color: #eee;
+    padding: 1rem 0;
+    font-size: 1.2rem; 
+} 
+
+ .card .btn{
+    display: block;
+    width: 80%;
+    margin: 2rem auto;
+}
+
+@media screen and (max-width:900px) {
+    .card-container{
+        max-width: 90%;
+        margin: auto;
+        grid-template-columns:  1fr;
+    }
 }

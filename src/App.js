@@ -1,6 +1,6 @@
 import React from "react";
 import { Routes, Route } from "react-router-dom";
-import Training from "./components/Training";
+import Training from "./routes/Training";
 import Home from "./routes/Home";
 import Pricing from "./routes/Pricing";
 

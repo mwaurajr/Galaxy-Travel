@@ -17,10 +17,10 @@ function Video() {
         </p>
 
         <div>
-          <Link to="./training" className="btn">
+          <Link to="./training" className="home-btn ">
             Training
           </Link>
-          <Link to="./contact" className="btn btn-light">
+          <Link to="./contact" className="home-btn  home-btn-light">
             Launch
           </Link>
         </div>

@@ -15,7 +15,7 @@ function PricingCard() {
             <p>Featured</p>
             <p>Private Quaters</p>
           </span>
-          <Link to="/contact" className="btn">
+          <Link to="/contact" className="home-btn">
             Book
           </Link>
         </div>
@@ -29,7 +29,7 @@ function PricingCard() {
             <p>Featured</p>
             <p>Private Quaters</p>
           </span>
-          <Link to="/contact" className="btn">
+          <Link to="/contact" className="home-btn">
             Book
           </Link>
         </div>
@@ -43,7 +43,7 @@ function PricingCard() {
             <p>Featured</p>
             <p>Private Quaters</p>
           </span>
-          <Link to="/contact" className="btn">
+          <Link to="/contact" className="home-btn">
             Book 
           </Link>
         </div>

@@ -38,21 +38,21 @@ a{
 
 }
 
-.btn{
-  padding: 12px 32px;
-  color: gray;
-  text-transform: uppercase;
-  background: white;
-  font-size: 1.0rem;
-  border: 1px solid white;
+.home-btn {
+  width: 6em;
+  height: 2em;
+  border: 2px solid white;
+  border-radius: 0.25em;
+  background-color: rgba(255, 255, 255, 0.457);
+  z-index: 1;
+  font-size: 2em;
   cursor: pointer;
-
 }
 
-.btn-light{
+.home-btn-light{
   background: rgba(255, 255, 255, .2);
 }
 
-.btn:hover{
+.home-btn:hover{
   background: rgba(0, 0, 0, .9);
 }
